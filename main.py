@@ -4,8 +4,6 @@ import seaborn as sns # lavora come wrapping di matplot
 import matplotlib.pyplot as plt
 from RouletteWheelSelection import RouletteWheelSelection
 
-# Commento aggiunto da DAAIL
-
 # ndarray = np.array([[5, np.inf, 15, 45], [9, np.inf, 11, 60],
 #                     [16, 10, 19, 70],
 #                     [18, 26, 20, np.inf],
